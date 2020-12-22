@@ -1,6 +1,6 @@
-## Win7Build KDE Theme
+## Win7Explore KDE Theme
 
-Win7Build kde is a light clean theme for KDE Plasma desktop.
+Win7Explore kde is a light clean theme for KDE Plasma desktop.
 
 In this repository you'll find:
 
