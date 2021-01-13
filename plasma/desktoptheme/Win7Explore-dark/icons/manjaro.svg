@@ -23,17 +23,20 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="966"
+     inkscape:window-height="907"
      id="namedview15"
      showgrid="true"
-     inkscape:zoom="13.354676"
-     inkscape:cx="13.538777"
-     inkscape:cy="-23.763074"
+     inkscape:zoom="4.721591"
+     inkscape:cx="-36.711768"
+     inkscape:cy="12.769852"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="70"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true">
     <inkscape:grid
        type="xygrid"
        id="grid840" />
@@ -66,8 +69,8 @@
        fill-opacity="0"
        id="rect7" />
     <path
-       d="m6 3c-1.662 0-3 1.338-3 3v10c0 1.662 1.338 3 3 3h1v-12h6v-4h-7zm9 0v16h1c1.662 0 3-1.338 3-3v-10c0-1.662-1.338-3-3-3h-1zm-6 6v10h4v-10h-4z"
-       id="path9" />
+       id="path9"
+       d="M 3 3 L 3 6 L 3 16 L 3 19 L 6 19 L 7 19 L 7 7 L 13 7 L 13 3 L 6 3 L 3 3 z M 15 3 L 15 19 L 16 19 L 19 19 L 19 16 L 19 6 L 19 3 L 16 3 L 15 3 z M 9 9 L 9 19 L 13 19 L 13 9 L 9 9 z " />
   </g>
   <g
      id="manjaro-settings-manager"
@@ -99,8 +102,8 @@
        fill="none"
        id="rect17" />
     <path
-       transform="translate(299 510.36)"
-       d="m8 29c-1.108 0-2 0.892-2 2v8c0 1.108 0.892 2 2 2h1v-9h5v-3h-6zm7 0v12h1c1.108 0 2-0.892 2-2v-8c0-1.108-0.892-2-2-2h-1zm-5 4v8h4v-8h-4z"
-       id="path19" />
+       id="path19"
+       d="M 6 29 L 6 31 L 6 39 L 6 41 L 8 41 L 9 41 L 9 32 L 14 32 L 14 29 L 8 29 L 6 29 z M 15 29 L 15 41 L 16 41 L 18 41 L 18 39 L 18 31 L 18 29 L 16 29 L 15 29 z M 10 33 L 10 41 L 14 41 L 14 33 L 10 33 z "
+       transform="translate(299,510.36)" />
   </g>
 </svg>
